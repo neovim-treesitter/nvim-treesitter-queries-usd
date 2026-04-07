@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "usd",
   "url": "https://github.com/ColinKennedy/tree-sitter-usd",
-  "semver": false
+  "semver": false,
+  "parser_version": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216",
+  "location": null,
+  "lang": "usd"
 }
